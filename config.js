@@ -1,8 +1,9 @@
-// M A D E  B Y  Letta - Sama 🐰  
+// M A D E  B Y  AzumiiDev 🐰  
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
 // • Allah SWT
+// • AzumiiDev
 // • Nurutomo
 // • Bochilgaming
 // • Rominaru
@@ -43,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/ppiowy_'
-global.sgh = 'https://github.com/kannachann'
-global.sgc = 'https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
+global.sig = 'https://instagram.com/shikizumii_xyz'
+global.sgh = 'https://github.com/shikizumii'
+global.sgc = 'https://chat.whatsapp.com/IcPKoVPsV86AfYICsRcfsL'
+global.sdc = 'https://discord.gg/ZGg4KeehWb'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085712420674'
-global.ppulsa2 = '083143393763'
-global.psaweria = 'https://saweria.com/kannabotz'
+global.pdana = "-"
+global.povo = "-"
+global.pgopay = "-"
+global.ppulsa = '085319362616'
+global.ppulsa2 = "-"
+global.psaweria = 'https://saweria.com/ktyyyzzm'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
-global.namebot = 'Kanna BOT'
-global.nameown = 'Letta - Sama'
+global.nomorbot = '6285213841632'
+global.nomorown = '6285319362616'
+global.namebot = 'Shiki BOT'
+global.nameown = 'AzumiiDev'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['18126338970'],
-  ['62831433937633', '❦ ℒℯ𝓉𝓉𝒶 - 𝒮𝒶𝓂𝒶', true]
+  ['6285319362616'],
+  ['62881024334397'],
+  ['6285213841632'],
+  ['6285319362616', '❦ 𝒜𝓏𝓊𝓂𝒾𝒾 - 𝒮𝒶𝓂𝒶', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,13 +115,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
+global.wm = '                「 Sнιкι BOT あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Sнιкι - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Sнιкι 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Ƙαnnα BOT あ⁩ 」'
+global.author = '                「 Sнιкι BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
